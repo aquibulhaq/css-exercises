@@ -18,6 +18,10 @@ img {
   display: flex;
 }
 
+.item {
+  width: 200px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
