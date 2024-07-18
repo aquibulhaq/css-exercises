@@ -41,3 +41,9 @@ ul {
 .content {
   flex: 1;
 }
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
