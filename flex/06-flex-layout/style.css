@@ -50,3 +50,7 @@ ul {
   justify-content: space-between;
   padding: 12px;
 }
+
+.footer {
+  background-color: #eeeeee;
+}
