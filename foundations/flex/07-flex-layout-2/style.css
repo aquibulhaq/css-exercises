@@ -40,6 +40,7 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  flex: none;
 }
 
 .card {
@@ -49,5 +50,10 @@ body {
 }
 
 .container {
+  flex: 1;
+  display: flex;
+}
+
+.content {
   flex: 1;
 }
