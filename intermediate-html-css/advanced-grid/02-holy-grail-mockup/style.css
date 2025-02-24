@@ -4,6 +4,7 @@
 }
 
 .container {
+  min-height: 100vh;
   text-align: center;
 }
 
@@ -35,7 +36,6 @@
   font-weight: normal;
   border-radius: 10px;
 }
-
 
 .sidebar .side-content {
   background-color: white;
