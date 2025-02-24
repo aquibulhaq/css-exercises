@@ -32,6 +32,11 @@
 }
 
 .menu ul,
+.nav ul {
+  list-style: none;
+}
+
+.menu ul,
 .menu li {
   font-size: 16px;
 }
